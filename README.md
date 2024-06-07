@@ -41,7 +41,7 @@ Si no tienes PyInstaller instalado, puedes instalarlo usando pip:
 
 Navega al directorio donde se encuentra generador.py y el archivo de icono cropped-favicon.ico. Luego, ejecuta el siguiente comando:
 
-    pyinstaller --onefile --windowed --icon=cropped-favicon.ico generador.py
+    pyinstaller --onefile --windowed --icon=logo.ico generador.py
 
 Este comando creará un único archivo ejecutable en el directorio dist. Puedes compartir este archivo ejecutable con tus compañeros de trabajo.
 Estructura del Proyecto
