@@ -49,7 +49,7 @@ Estructura del Proyecto
     QR-Generator/
     │
     ├── generador.py         # Script principal para generar códigos QR
-    ├── logo.ico  # Icono de la aplicación
+    ├── logo.ico             # Icono de la aplicación
     └── README.md            # Este archivo
 
 ## Contribuir
